@@ -7481,6 +7481,59 @@ http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Noedin Panji
+https://stream.palembang.go.id/stream16/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Simpang Charitas
+https://stream.palembang.go.id/stream8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Bunderan Cinde
+https://stream.palembang.go.id/stream6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Simpang Polda
+https://stream.palembang.go.id/stream3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", RS Hermina
+https://stream.palembang.go.id/stream10/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Punti Kayu
+https://stream.palembang.go.id/stream14/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Depan Darma Agung
+https://stream.palembang.go.id/stream24/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", KM 12
+https://stream.palembang.go.id/stream13/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Bunderan Masjid Agung
+https://stream.palembang.go.id/stream9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Simpang 5 DPRD Prov
+https://stream.palembang.go.id/stream7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Simpang Angkatan 45
+https://stream.palembang.go.id/stream5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", SP Macan Lindungan 
+https://stream.palembang.go.id/stream4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Jembatan ampere 2
+https://stream.palembang.go.id/stream22/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Jembatan ampere 1
+https://stream.palembang.go.id/stream1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Polsek Sukarame
+https://stream.palembang.go.id/stream17/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Plaza 7 Ulu
+https://stream.palembang.go.id/stream20/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Palembang_CoA.svg/1614px-Palembang_CoA.svg.png" group-title="CCTV", Jembatan musi 6
+https://stream.palembang.go.id/stream15/index.m3u8
+
+
 
 
 
